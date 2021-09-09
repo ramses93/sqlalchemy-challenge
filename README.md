@@ -17,3 +17,17 @@ The first paet consisted in obtaining the precipitation scores during the last y
 The plot of Precipitation values in the last year of data is shown in the next Figure:
 
 ![ScreenShot](/screenshots/prcp_plot.png)
+
+### Summary Statistics for the Precipitation Data
+|  | prcp  |
+| count |2021.000000 |
+| mean | 0.177279 |
+| std | 0.461190 |
+| min | 0.000000 |
+| 25% | 0.000000 |
+| 50% | 0.020000 |
+| 75% | 0.130000 |
+| max | 6.700000 |
+
+### Bar plot for most-active stations
+![ScreenShot](/screenshots/prcp_plot.png)
