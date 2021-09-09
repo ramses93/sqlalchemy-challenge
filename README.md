@@ -30,4 +30,4 @@ The plot of Precipitation values in the last year of data is shown in the next F
 | max | 6.700000 |
 
 ### Bar plot for most-active stations
-![ScreenShot](/screenshots/prcp_plot.png)
+![ScreenShot](/screenshots/bar_plot.png)
