@@ -14,5 +14,6 @@ The first paet consisted in obtaining the precipitation scores during the last y
 | 2016-08-23 | 0.15 |
 | 2016-08-23 | 0.70 |
 
-The plot of Precipitation values in the last year of data is shown in the next Figure
+The plot of Precipitation values in the last year of data is shown in the next Figure:
+
 ![ScreenShot](/screenshots/prcp_plot.png)
